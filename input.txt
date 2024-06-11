@@ -1,0 +1,10 @@
+Gender: ['Female' 'Male']
+CALC: ['Always' 'Frequently' 'Sometimes' 'no']
+FAVC: ['no' 'yes']
+SCC: ['no' 'yes']
+SMOKE: ['no' 'yes']
+family_history_with_overweight: ['no' 'yes']
+CAEC: ['Always' 'Frequently' 'Sometimes' 'no']
+MTRANS: ['Automobile' 'Bike' 'Motorbike' 'Public_Transportation' 'Walking']
+NObeyesdad: ['Insufficient_Weight' 'Normal_Weight' 'Obesity_Type_I' 'Obesity_Type_II'
+'Obesity_Type_III' 'Overweight_Level_I' 'Overweight_Level_II']
